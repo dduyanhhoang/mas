@@ -1,4 +1,5 @@
-pandas
 matplotlib
-seaborn
+pandas
 scikit-learn
+scipy
+seaborn
